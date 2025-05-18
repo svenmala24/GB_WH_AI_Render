@@ -6,7 +6,7 @@ import base64
 import os
 from contextlib import ExitStack  # Import inside the block or at the top of your script
 
-from IPython.display import display
+# from IPython.display import display
 from PIL import Image
 import io
 import tempfile
